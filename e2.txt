@@ -1,0 +1,14 @@
+Parte II [3 ptos] - Selección simple 
+1.	¿Cuál símbolo en UML representa una relación de composición?
+
+b.	Línea continua con un rombo negro en un extremo.
+
+
+2.	¿Cuál de las siguientes opciones describe correctamente una asociación en UML?
+
+c.	Línea continua simple que conecta dos clases indicando una relación estructural.
+
+3.	¿Cuál es el significado del símbolo # delante de un atributo o método en un diagrama UML?
+
+c.	Protegido
+

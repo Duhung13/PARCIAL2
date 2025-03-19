@@ -1,0 +1,4 @@
+¿Cuál es el bug en este código?
+
+3.	El método __init__ de la clase Vehiculo está mal definido.
+
